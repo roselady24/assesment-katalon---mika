@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Page > total_pages → data kosong</description>
+   <name>TC_Bound_PageBeyond</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>969f18f0-477b-4895-8f0f-67160201100b</testCaseGuid>
+</TestCaseEntity>

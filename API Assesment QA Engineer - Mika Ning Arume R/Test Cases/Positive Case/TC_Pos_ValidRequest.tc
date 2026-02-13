@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Request page=2, valid API key</description>
+   <name>TC_Pos_ValidRequest</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a1893a89-3595-4ca9-ae8f-4350da0362d6</testCaseGuid>
+</TestCaseEntity>

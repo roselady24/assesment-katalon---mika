@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>page = total_pages→ data tetap muncul</description>
+   <name>TC_Bound_LastPage</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>68d6f3fa-2c90-469b-82b2-3116a19c84b2</testCaseGuid>
+</TestCaseEntity>

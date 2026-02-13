@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Page &lt; 0 → server OK, data kosong / default</description>
+   <name>TC_Bound_PageNegative</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a0a1b5fb-3f19-4bd7-b2f2-5adfd17bf60e</testCaseGuid>
+</TestCaseEntity>

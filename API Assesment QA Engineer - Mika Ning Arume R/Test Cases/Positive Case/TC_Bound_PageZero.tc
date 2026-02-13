@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Page = 0 → server OK, data kosong / default</description>
+   <name>TC_Bound_PageZero</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7a21fa14-356b-416d-89ad-4d22c62a0452</testCaseGuid>
+</TestCaseEntity>
