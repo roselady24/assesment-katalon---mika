@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>P-04 Verify able to check out</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5740acb5-6494-48a9-997d-79aad70e7b2f</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>N-02 Login with incorrect username</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>90d8724c-a4a3-48c3-83da-5b67942f13c3</testCaseGuid>
+</TestCaseEntity>
